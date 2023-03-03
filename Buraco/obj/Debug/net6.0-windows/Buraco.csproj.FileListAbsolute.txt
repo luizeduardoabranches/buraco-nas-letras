@@ -1,0 +1,17 @@
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\bin\Debug\net6.0-windows\Buraco.exe
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\bin\Debug\net6.0-windows\Buraco.deps.json
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\bin\Debug\net6.0-windows\Buraco.runtimeconfig.json
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\bin\Debug\net6.0-windows\Buraco.dll
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\bin\Debug\net6.0-windows\Buraco.pdb
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.csproj.AssemblyReference.cache
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.Form1.resources
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.csproj.GenerateResource.cache
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.AssemblyInfoInputs.cache
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.AssemblyInfo.cs
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.csproj.CoreCompileInputs.cache
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.dll
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\refint\Buraco.dll
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.pdb
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\Buraco.genruntimeconfig.cache
+C:\Users\luize\OneDrive\Área de Trabalho\Buraco\Buraco\obj\Debug\net6.0-windows\ref\Buraco.dll
