@@ -7,7 +7,7 @@ Por exemplo, as letras R, B e P possuem espaços contidos em seus desenhos, dife
 texto:BURACO,
 tamanho: 6,
 totalDePalavras: 1,
-totalDeBuracos": 5</sub
+totalDeBuracos": 5
 ```
 
 
