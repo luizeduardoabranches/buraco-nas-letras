@@ -4,10 +4,10 @@ Por exemplo, as letras R, B e P possuem espaços contidos em seus desenhos, dife
 
 ###### Exemplo:
 ```
-texto:BURACO,
+<sup>texto:BURACO,
 tamanho: 6,
 totalDePalavras: 1,
-totalDeBuracos": 5
+totalDeBuracos": 5</sup>
 ```
 
 
