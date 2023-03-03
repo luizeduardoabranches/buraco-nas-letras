@@ -4,10 +4,10 @@ Por exemplo, as letras R, B e P possuem espaços contidos em seus desenhos, dife
 
 ```json
 
-   "texto":"TEXTO ENVIADO NA REQUISICAO",
-   "tamanho": 27,
-   "totalDePalavras": 4,
-   "totalDeBuracos": 8
+   texto:TEXTO ENVIADO NA REQUISICAO,
+   tamanho: 27,
+   totalDePalavras: 4,
+   totalDeBuracos": 8
 
 ```
 
